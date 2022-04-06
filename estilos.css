@@ -3,3 +3,18 @@ body {
     color: blue;
     font-family: "Serif";
 }
+ h1{
+     text-align: center;
+     font-size: center;
+ }
+
+ h2{
+    text-align: center;
+    font-size: center;
+ }
+
+
+nav{
+    display: flex;
+    flex-wrap: wrap;
+}
